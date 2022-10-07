@@ -1,0 +1,32 @@
+{
+  "name": "es6-basis",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Proyecto de aprendizaje es6",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XR-115/es6-Project.git"
+  },
+  "keywords": [
+    "arreglos",
+    "funciones",
+    "objetos"
+  ],
+  "author": "Johan Reyes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XR-115/es6-Project/issues"
+  },
+  "homepage": "https://github.com/XR-115/es6-Project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
