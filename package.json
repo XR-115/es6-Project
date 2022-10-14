@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon async/3_callback_reques.js"
+    "dev": "nodemon evidencias/Maquillaje.js"
   },
   "repository": {
     "type": "git",
@@ -27,7 +27,9 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
+    "axios": "^1.1.2",
     "colors": "^1.4.0",
+    "needle": "^3.1.0",
     "request": "^2.88.2",
     "xmlhttprequest": "^1.8.0"
   }
